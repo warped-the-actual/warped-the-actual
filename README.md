@@ -31,14 +31,6 @@ I’m a Gorilla Tag modder<br>
 
 ---
 
-<details>
-  <summary align="center">💬 Friends & Server Owners</summary>
-  <p align="center">
-  </p>
-</details>
-
----
-
 <p align="center">
   <img src="hyper.gif" height="100">
 </p>
